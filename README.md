@@ -8,8 +8,7 @@ This project is designed to predict the likelihood of bankruptcy for businesses 
 3. Technologies Used
 4. Steps Performed
 5. Deployment
-6. Results
-7. Future Enhancements
+6. Result
 
 ## Project Description
 The goal of this project is to model the probability of business bankruptcy using financial and operational risk factors. This model can assist stakeholders in identifying potential risks early.
